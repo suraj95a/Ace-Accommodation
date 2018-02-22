@@ -1,0 +1,47 @@
+
+*******BOOKING REPORT OF ACE ACCOMMODATIONS********
+
+----Table Of All Accommodations (Short Details)----
+NUM  OWNERINITIALS  BEDS  DAYCOST($)  TOTALCOST($)
+---------------------------------------------------
+1    S.C.           2     1360.00     5440.00     
+2    B.W.           5     3380.00     23660.00    
+3    B.H.O.         4     1620.00     6480.00     
+4    D.J.T.         4     3275.00     19650.00    
+5    J.B.           3     2040.00     2040.00     
+6    J.F.K.         4     2380.00     7140.00     
+7    J.N.M.         1     575.00      575.00      
+8    Z.H.K.         6     2010.00     8040.00     
+9    B.J.C.         3     2335.00     4670.00     
+10   D.N.K.         3     2050.00     6150.00     
+11   A.W.           9     2220.00     4440.00     
+12   J.P.           3     1490.00     5960.00     
+31   E.A.           4     195.00      195.00      
+32   A.j.           8     225.00      225.00      
+33   J.B.           6     205.00      410.00      
+34   K.C.           2     160.00      160.00      
+35   S.S.           6     205.00      615.00      
+36   K.P.           2     125.00      125.00      
+37   J.L.K.         4     195.00      195.00      
+38   C.E.           6     230.00      230.00      
+39   T.S.           6     200.00      400.00      
+40   D.J.           8     240.00      240.00      
+41   A.J.           2     160.00      160.00      
+61   J.S.S.         2     1000.00     2000.00     
+62   M.T.           2     700.00      700.00      
+63   J.F.R.         2     800.00      4800.00     
+64   E.M.           2     1100.00     4400.00     
+65   D.S.           1     1050.00     3150.00     
+66   C.G.           3     850.00      850.00      
+67   M.S.           3     950.00      2850.00     
+68   J.L.           3     1250.00     5000.00     
+69   L.I.B.         4     1400.00     2800.00     
+70   J.S.           4     1200.00     3600.00     
+---------------------------------------------------
+
+ The Number Of Hotel Suites booked are 12.
+ The Number Of Cabins booked are 11.
+ The Number Of Campsites booked are 10.
+ The Total Number Of All Accommodations booked are 33.
+
+ Hence, the Most Popular Accommodation is the Hotel Suite with 12 suites currently booked.
