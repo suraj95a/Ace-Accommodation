@@ -1,0 +1,12 @@
+CabinNumber,Name,NumOfDays,Breakfast,SeaView,Beds,,
+31,Emily Adam,1,TRUE,TRUE,2,2,
+32,Angel john,1,FALSE,TRUE,2,2,4
+33,James Bond,2,TRUE,FALSE,2,4,
+34,Ken Conner,1,TRUE,TRUE,2,,
+35,Smith Simon,3,TRUE,FALSE,2,4,
+36,Karen Pitt,1,FALSE,FALSE,2,,
+37,Jay Leone Karry,1,TRUE,TRUE,2,2,
+38,Chris Evans,1,TRUE,TRUE,2,4,
+39,Tony Stark,2,FALSE,TRUE,2,4,
+40,Daisy Jim,1,TRUE,FALSE,2,2,4
+41,Andy Jison,1,TRUE,TRUE,2,,
